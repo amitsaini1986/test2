@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"my love");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
